@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Edge Case: Many Tags'
-categories: []
+categories:
+- Edge Case
 tags:
 - 8BIT
 - alignment
