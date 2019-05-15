@@ -3,6 +3,8 @@ layout: post
 title: 'Edge Case: Many Tags'
 categories:
 - Edge Case
+- Markup
+- Yellow
 tags:
 - 8BIT
 - alignment
